@@ -1,7 +1,7 @@
 # Hi there, I'm Adnan - aka [AdnCodez][website] <img src="https://raw.githubusercontent.com/adncodez/adncodez/master/wave.gif" width="35px">
 
 I am a self-taught developer from Morocco, full time freelancer
-I started coding as a hobbie after I needed make some code for an arduino to light some LEDs in diffrent patterns.
+I started coding as a hobbie after I needed make some code for an Arduino to light some LEDs in different patterns.
 
 <br />
 
@@ -40,7 +40,7 @@ I started coding as a hobbie after I needed make some code for an arduino to lig
 
 - 📬 How to reach me [@AdnCodez][twitter]
 
-- 🔥 Fav Quote : `You didn't come this far to ONLY come this far`
+- 🔥 Favorite Quote: `You didn't come this far to ONLY come this far`
 
 <br />
 
@@ -48,7 +48,7 @@ I started coding as a hobbie after I needed make some code for an arduino to lig
 
 ![AdnCodez's github stats](https://github-readme-stats.vercel.app/api?username=adncodez&hide_title=true&count_private=true&show_icons=true&bg_color=12,00e1ff,f04c00&text_color=ffffff&title_color=ffffff&icon_color=f06d00&hide_rank=true)
 
-# Connect with me:
+# 📨 Connect with me 📨
 
 [<img align="left" alt="AdnCodez.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="AdnCodez | Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
