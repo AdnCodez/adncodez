@@ -1,4 +1,4 @@
-# Hi there, I'm Adnan - aka [AdnCodez][website] <img src="./wave.gif" width="35px">
+# Hi there, I'm Adnan - aka [AdnCodez][website] <img src="https://raw.githubusercontent.com/adncodez/adncodez/master/wave.gif" width="35px">
 
 I am a self-taught developer from Morocco, full time freelancer
 I started coding as a hobbie after I needed make some code for an arduino to light some LEDs in diffrent patterns.
