@@ -48,6 +48,8 @@ I started coding as a hobbie after I needed make some code for an Arduino to lig
 
 ![AdnCodez's github stats](https://github-readme-stats.vercel.app/api?username=adncodez&hide_title=true&count_private=true&show_icons=true&bg_color=12,00e1ff,f04c00&text_color=ffffff&title_color=ffffff&icon_color=f06d00&hide_rank=true)
 
+<br />
+
 # 📨 Connect with me 📨
 
 [<img align="left" alt="AdnCodez.com" width="32px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
