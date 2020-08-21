@@ -5,7 +5,7 @@ I started coding as a hobbie after I needed make some code for an arduino to lig
 
 <br />
 
-# Languages and Tools:
+# Languages & Tools 🛠
 
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -28,7 +28,7 @@ I started coding as a hobbie after I needed make some code for an arduino to lig
 <br />
 <br />
 
-# Details:
+# Details 🖇
 
 - 🔭 I’m currently working on some of my side projects mainly using Django
 
