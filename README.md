@@ -4,7 +4,6 @@ I am a self-taught developer from Morocco, full time freelancer
 I started coding as a hobbie after I needed make some code for an arduino to light some LEDs in diffrent patterns.
 
 <br />
-<br />
 
 # Languages and Tools:
 
