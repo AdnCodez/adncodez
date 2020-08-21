@@ -32,7 +32,7 @@ I started coding as a hobbie after I needed make some code for an arduino to lig
 
 - 🔭 I’m currently working on some of my side projects mainly using Django
 
-- 🌱 I’m currently learning React @scrimba
+- 🌱 I’m currently learning React [@scrimba][scrimba-course]
 
 - 🎲 Fun-Fact: I'm a big fan of 528Hz
 
@@ -60,5 +60,6 @@ I started coding as a hobbie after I needed make some code for an arduino to lig
 [website]: https://adncodez.com
 [twitter]: https://twitter.com/adncodez
 [instagram]: https://instagram.com/adncodez
+[scrimba-course]: https://scrimba.com/course/glearnreact
 
 <!-- [linkedin]: https://linkedin.com/in/adncodez -->
