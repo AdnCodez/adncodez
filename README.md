@@ -3,6 +3,9 @@
 I am a self-taught developer from Morocco, full time freelancer
 I started coding as a hobbie after I needed make some code for an arduino to light some LEDs in diffrent patterns.
 
+<br />
+<br />
+
 # Languages and Tools:
 
 <img align="left" alt="HTML5" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -21,7 +24,12 @@ I started coding as a hobbie after I needed make some code for an arduino to lig
 <img align="left" alt="Terminal" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="46px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="46px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
-<img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="46px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <br />
+
+<br />
+<br />
+
+# Details:
 
 - 🔭 I’m currently working on some of my side projects mainly using Django
 
@@ -34,6 +42,8 @@ I started coding as a hobbie after I needed make some code for an arduino to lig
 - 📬 How to reach me [@AdnCodez][twitter]
 
 - 🔥 Fav Quote : `You didn't come this far to ONLY come this far`
+
+<br />
 
 # ⚡ Github stats ⚡
 
