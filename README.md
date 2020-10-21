@@ -33,7 +33,7 @@ I started coding as a hobbie after I needed make some code for an Arduino to lig
 
 - 🔭 I’m currently working on some of my side projects mainly using Django
 
-- 🌱 I’m currently learning React [@scrimba][scrimba-course]
+- 🌱 I’m currently learning Gatsby 
 
 - 🎲 Fun-Fact: I'm a big fan of 528Hz
 
@@ -42,12 +42,6 @@ I started coding as a hobbie after I needed make some code for an Arduino to lig
 - 📬 How to reach me [@AdnCodez][twitter]
 
 - 🔥 Favorite Quote: `You didn't come this far to ONLY come this far`
-
-<br />
-
-# ⚡ Github stats ⚡
-
-![AdnCodez's github stats](https://github-readme-stats.vercel.app/api?username=adncodez&hide_title=true&count_private=true&show_icons=true&bg_color=12,00e1ff,f04c00&text_color=ffffff&title_color=ffffff&icon_color=f06d00&hide_rank=true)
 
 <br />
 
